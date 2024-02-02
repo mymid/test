@@ -1,8 +1,7 @@
 ---
-title: La Palma Earthquakes
+title: 서울대 qmd
 author:
-  - name: Steve Purves
-    orcid: 0000-0002-0760-5497
+  - name: Soojung Kim
     corresponding: true
     email: steve@curvenote.com
     roles:
